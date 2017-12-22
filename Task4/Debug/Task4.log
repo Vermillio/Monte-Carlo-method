@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task4\task4\source.cpp(36): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Task4.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task4\Debug\Task4.exe
+  Task4.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task4\Debug\Task4.pdb (Partial PDB)
